@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "apps": [ ],
+    "details": [
+      {
+        "appID": "V577MLBEAG.dom.ria",
+        "paths": [
+          "NOT /uk/realty_add_new*",
+          "/uk/realty*",
+          "NOT /ru/realty_add_new*",
+          "/ru/realty*",
+          "/dia/status/*",
+          "/uk/dia/status/*",
+          "/ru/dia/status/*",
+          "/appstore/events/*",
+          "/uk/video-verification*",
+          "/ru/video-verification*",
+          "/arenda-kvartir/*",
+          "/uk/arenda-kvartir/*",
+          "/prodazha-kvartir/*",
+          "/uk/prodazha-kvartir/*",
+          "/temp/"
+        ]
+      }
+    ]
+  }
+}
